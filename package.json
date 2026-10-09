@@ -10,7 +10,7 @@
   "dependencies": {
     "@hapi/boom": "^10.0.1",
     "@whiskeysockets/baileys": "^6.7.9",
-    "@vercel/functions": "^2.0.0",
+    "@vercel/functions": "latest",
     "ioredis": "^5.4.1",
     "next": "15.1.6",
     "pino": "^9.5.0",
